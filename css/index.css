@@ -4905,6 +4905,14 @@ img:hover {
 [data-theme="dark"] .bookmark--animated:before {
   background: #5c626c !important;
 }
+[data-theme="dark"] #gitalk-container .gt-header-textarea {
+  background-color: #2d3035 !important;
+  color: #99a9bf;
+  border: 1px solid #99a9bf;
+}
+[data-theme="dark"] #gitalk-container .gt-comment-content {
+  filter: brightness(0.7);
+}
 .search-dialog {
   position: fixed;
   top: 5rem;
