@@ -1737,11 +1737,11 @@ blockquote footer cite:before {
   transition: all 0.3s;
 }
 #aside_content .card-author img:hover {
-  -webkit-transform: rotate(540deg);
-  -moz-transform: rotate(540deg);
-  -o-transform: rotate(540deg);
-  -ms-transform: rotate(540deg);
-  transform: rotate(540deg);
+  -webkit-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
 }
 #aside_content .card-author .author-info__name {
   font-size: 1.1rem;
@@ -1786,11 +1786,11 @@ blockquote footer cite:before {
   transition: all 0.3s;
 }
 #aside_content .card-author #aside-social-icons i:hover {
-  -webkit-transform: rotate(540deg);
-  -moz-transform: rotate(540deg);
-  -o-transform: rotate(540deg);
-  -ms-transform: rotate(540deg);
-  transform: rotate(540deg);
+  -webkit-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
 }
 #aside_content .card-author #bookmark-it {
   margin-top: 0.2rem;
